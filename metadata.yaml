@@ -1,6 +1,9 @@
 _repo: Arsene-Lupin-super-sleuth_74269
 _version: 0.1.0
 alternative_title: La demoiselle aux yeux verts. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leblanc, Maurice
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Maurice_Leblanc
     - https://fr.wikipedia.org/wiki/Maurice_Leblanc
 description: 'Also published with the title: The girl with the green eyes.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74269#Arsene-Lupin-super-sleuth
 gutenberg_issued: '2024-08-16'
 gutenberg_type: Text
 identifiers:
